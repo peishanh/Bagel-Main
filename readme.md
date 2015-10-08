@@ -4,7 +4,7 @@ This is the main repository for an ongoing project in the Siegel group codenamed
 
 ## Timeline 
 
-Over the course of several weeks, you will design a handful of mutant enzymes, test your designs in the lab, and then take what you've learned to design a new set of mutants. 
+In the first week, you will computationally design three mutant enzymes. In the next two weeks, you'll test your designs in the lab, and see how the computational predictions you made in the first week play out in data. 
 
 + **First week: get started with Foldit**. First, get the [Foldit model](http://github.com/dacarlin/bagel-foldit) and [our group's internal copy of Foldit](http://games.cs.washington.edu/foldit/build/release/). Check out the [cheat sheet](http://github.com/dacarlin/bagel-foldit) to learn how to load in your puzzle and get started designing mutants. 
 
