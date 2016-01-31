@@ -15,3 +15,7 @@ In the first week, you will computationally design three mutant enzymes. In the 
 # For teachers  
 
 This is the main repository for the Siegel group's Bagel project. The lab protocols and data analysis tools provided, along with the [parts list](https://docs.google.com/spreadsheets/d/106pUlbfcXcYa9Vg8fXZFAt3Imil9BYLZ1ztZ-R9lcZw/edit?usp=sharing), enable any lab to get started with enzyme engineering. 
+
+# Python modules in use by the Siegel group's "Bagel" project  
+
+Current Python modules for designing mutagenic oligos, generating Transcripic input, and automatic analyis of sequencing results are available in the repository [bagel-orders](https://github.com/dacarlin/bagel-orders). 
