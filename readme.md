@@ -1,6 +1,6 @@
-# Welcome to the Bagel team 
+This is the main repository for an ongoing project in the Siegel group codenamed "Bagel". The researchers in the Bagel Team are investigating how point mutations to enzymes change functional parameters, stabilty, and structure. 
 
-This is the main repository for an ongoing project in the Siegel group codenamed "Bagel" were we are investigating the effect of point mutations on enzyme functional parameters, stabilty, and structure. 
+## Welcome to the Bagel Team 
 
 ### Background 
 
@@ -19,3 +19,4 @@ In the first week, you will computationally design three mutant enzymes. Next, y
 + **Third week: produce, purify, and assay your mutants in the wet lab**. Following the procedures you learned in "boot camp", kinetically characterize the mutants that you designed. 
 
 + **Forth week: analyze your data and learn from the mutations you designed**. Analyze your data using the [data analysis tools](http://github.com/dacarlin/bagel-fitter) and write up your results. Learn how the mutations you made changed the kinetic properties of the enzyme. 
+
