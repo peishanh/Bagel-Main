@@ -1,0 +1,209 @@
+SL_index,box,row,column,physical_desc,mutant
+1,1,A,1,tall black screwtop,W120A
+2,1,A,2,tall black screwtop,Q313R
+3,1,A,3,tall black screwtop,S14A
+4,1,A,4,tall black screwtop,F415A
+5,1,A,5,tall black screwtop,T296A
+6,1,A,6,tall black screwtop,R76A
+7,1,A,7,tall black screwtop,E164A
+8,1,A,8,tall black screwtop,E406D
+9,1,A,9,tall black screwtop,S400A
+10,1,B,1,tall black screwtop,H315N
+11,1,B,2,tall black screwtop,M323K
+12,1,B,3,tall black screwtop,M323A
+13,1,B,4,tall black screwtop,W325L
+14,1,B,5,tall black screwtop,N293A
+15,1,B,6,tall black screwtop,N404A
+16,1,B,7,tall black screwtop,W407G
+17,1,B,8,tall black screwtop,W407A
+18,1,B,9,tall black screwtop,L219A
+19,1,C,1,tall black screwtop,S16A
+20,1,C,2,tall black screwtop,N220A
+21,1,C,3,tall black screwtop,E406A
+22,1,C,4,tall black screwtop,W407Q
+23,1,C,5,tall black screwtop,C167A
+24,1,C,6,tall black screwtop,N163A
+25,1,C,7,tall black screwtop,F405A
+26,1,C,8,tall black screwtop,T15A
+27,1,C,9,tall black screwtop,M221A
+28,1,D,1,tall black screwtop,P329N
+29,1,D,2,tall black screwtop,L171A
+30,1,D,3,tall black screwtop,T352A
+31,1,D,4,tall black screwtop,W407R
+32,1,D,5,tall black screwtop,H373R
+33,1,D,6,tall black screwtop,A357A
+34,1,D,7,tall black screwtop,A408A
+35,1,D,8,tall black screwtop,W409A
+36,1,D,9,tall black screwtop,R240A
+37,1,E,1,tall black screwtop,C167Q
+38,1,E,2,tall black screwtop,Q19A
+39,1,E,3,tall black screwtop,H101R
+40,1,E,4,tall black screwtop,C167A
+41,1,E,5,tall black screwtop,N354A
+42,1,E,6,tall black screwtop,H178A
+43,1,E,7,tall black screwtop,E154D
+44,1,E,8,tall black screwtop,V147S
+45,1,E,9,tall black screwtop,W120F
+46,1,F,1,tall black screwtop,W34A
+47,1,F,2,tall black screwtop,H379T
+48,1,F,3,tall black screwtop,H379R
+49,1,F,4,tall black screwtop,D403A
+50,1,F,5,tall black screwtop,Q284R
+51,1,F,6,tall black screwtop,G355A
+52,1,F,7,tall black screwtop,S17A
+53,1,F,8,tall black screwtop,E353A
+54,1,F,9,tall black screwtop,T218A
+55,1,G,1,tall black screwtop,W325A
+56,1,G,2,tall black screwtop,I91E
+57,1,G,3,tall black screwtop,Y295A
+58,1,G,4,tall black screwtop,E222A
+59,1,G,5,tall black screwtop,N163D
+60,1,G,6,tall black screwtop,Q19C
+61,1,G,7,tall black screwtop,W325G
+62,1,G,8,tall black screwtop,W399G
+63,1,G,9,tall black screwtop,Y294A
+64,1,H,1,tall black screwtop,Y18A
+65,1,H,2,tall black screwtop,
+66,1,H,3,tall black screwtop,R240K
+67,1,H,4,tall black screwtop,S298E
+68,1,H,5,tall black screwtop,A356A
+69,1,H,6,tall black screwtop,E177A
+70,1,H,7,tall black screwtop,K413A
+71,1,H,8,tall black screwtop,W399A
+72,1,H,9,tall black screwtop,S17E
+73,1,I,1,tall black screwtop,H119A
+74,1,I,2,redtop,W399C
+75,1,I,3,redtop,E222R
+76,1,I,4,redtop,E164G
+77,1,I,5,redtop,R240E
+78,1,I,6,redtop,E222H
+79,1,I,7,redtop,W325R
+80,1,I,8,redtop,E222Y
+81,1,I,9,redtop,E222K
+82,2,A,1,redtop,R240D
+83,2,A,2,redtop,W399S
+84,2,A,3,redtop,W399S
+85,2,A,4,redtop,E164R
+86,2,A,5,redtop,I244E
+87,2,A,6,redtop,K341A
+88,2,A,7,redtop,L171R
+89,2,A,8,redtop,N163C
+90,2,A,9,redtop,W120H
+91,2,B,1,redtop,E222Q
+92,2,B,2,redtop,E177L
+93,2,B,3,redtop,N293C
+94,2,B,4,redtop,N404C
+95,2,B,5,redtop,W325L
+96,2,B,6,redtop,W409E
+97,2,B,7,redtop,N293Q
+98,2,B,8,redtop,S16N
+99,2,B,9,redtop,H315A
+100,2,C,1,redtop,N220R
+101,2,C,2,redtop,E177S
+102,2,C,3,redtop,W399R
+103,2,C,4,redtop,H315E
+104,2,C,5,redtop,H315Y
+105,2,C,6,redtop,N293D
+106,2,C,7,redtop,H178R
+107,2,C,8,redtop,N220Y
+108,2,C,9,redtop,L362M
+109,2,D,1,redtop,W409Y
+110,2,D,2,redtop,F415N
+111,2,D,3,redtop,V52G
+112,2,D,4,redtop,Y294H
+113,2,D,5,redtop,Y294F
+114,2,D,6,redtop,R76Q
+115,2,D,7,redtop,H119N
+116,2,D,8,redtop,H119E
+117,2,D,9,redtop,W325C
+118,2,E,1,redtop,W399C
+119,2,E,2,redtop,I244N
+120,2,E,3,redtop,N220G
+121,2,E,4,redtop,N220H
+122,2,E,5,redtop,E426S
+123,2,E,6,redtop,Y294F
+124,2,E,7,redtop,S16A
+125,2,E,8,redtop,W325H
+126,2,E,9,redtop,I300N
+127,2,F,1,redtop,M261E
+128,2,F,2,redtop,A192S
+129,2,F,3,redtop,F72H
+130,2,F,4,redtop,S331A
+131,2,F,5,redtop,M358T
+132,2,F,6,redtop,Y166P
+133,2,F,7,redtop,T175R
+134,2,F,8,redtop,Q313R
+135,2,F,9,redtop,Q19S
+136,2,G,1,redtop,N163D
+137,2,G,2,redtop,E177K
+138,2,G,3,white label,I244E
+139,2,G,4,white label,E164D
+140,2,G,5,white label,L171D
+141,2,G,6,white label,D121F
+142,2,G,7,white label,V320Q
+143,2,G,8,white label,W325E
+144,2,G,9,white label,Y294H
+145,2,H,1,white label,W407K
+146,2,H,2,white label,Y166E
+147,2,H,3,white label,L171E
+148,2,H,4,white label,G153A
+149,2,H,5,white label,H315R
+150,2,H,6,white label,F343S
+151,2,H,7,white label,F415D
+152,2,H,8,white label,T296E
+153,2,H,9,white label,N220E
+154,2,I,1,white label,N163S
+155,2,I,2,white label,G12N
+156,2,I,3,white label,A227W
+157,2,I,4,white label,S298E
+158,2,I,5,white label,E353F
+159,2,I,6,white label,N163K
+160,2,I,7,white label,F415N
+161,2,I,8,white label,A236E
+162,2,I,9,white label,Q19P
+163,3,A,1,white label,Y294L
+164,3,A,2,white label,A249E
+165,3,A,3,white label,S32L
+166,3,A,4,white label,F248K
+167,3,A,5,white label,W407Y
+168,3,A,6,white label,N220D
+169,3,A,7,white label,E388C
+170,3,A,8,blue label,W325R
+171,3,A,9,blue label,L272N
+172,3,B,1,blue label,N220S
+173,3,B,2,blue label,M323T
+174,3,B,3,blue label,N293S
+175,3,B,4,blue label,W399H
+176,3,B,5,blue label,V311D
+177,3,B,6,blue label,N293C
+178,3,B,7,blue label,D322A
+179,3,B,8,blue label,H178N
+180,3,B,9,blue label,W325K
+181,3,C,1,blue label,Y166F
+182,3,C,2,blue label,R240K
+183,3,C,3,blue label,L108N
+184,3,C,4,blue label,I244M
+185,3,C,5,blue label,N293K
+186,3,C,6,blue label,E406Q
+187,3,C,7,blue label,N220Q
+188,3,C,8,blue label,Q313E
+189,3,C,9,blue label,C167S
+190,3,D,1,blue label,I244V
+191,3,D,2,blue label,N163S
+192,3,D,3,blue label,N220K
+193,3,D,4,blue label,V311A
+194,3,D,5,blue label,N163E
+195,3,D,6,blue label,N220Y
+196,3,D,7,blue label,N220D
+197,3,D,8,handwritten,L171R
+198,3,D,9,handwritten,H119A
+199,3,E,1,handwritten,E177A
+200,3,E,2,handwritten,N163C
+201,3,E,3,handwritten,W399C
+202,3,E,4,handwritten,K341A
+203,3,E,5,handwritten,S17E
+204,3,E,6,handwritten,R240A
+205,3,E,7,handwritten,W120H
+206,3,E,8,handwritten,K413A
+207,3,E,9,handwritten,E222Q
+208,3,F,1,handwritten,V52G
