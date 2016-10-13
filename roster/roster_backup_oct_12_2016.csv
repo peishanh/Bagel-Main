@@ -207,11 +207,3 @@ SL_index,box,row,column,physical_desc,mutant
 206,3,E,8,handwritten,K413A
 207,3,E,9,handwritten,E222Q
 208,3,F,1,handwritten,V52G
-209,3,F,2,blue label,H315D 
-210,3,F,3,blue label,S16T 
-211,3,F,4,blue label,Q19N
-212,3,F,5,blue label,E406N
-213,3,F,6,blue label,H119N 
-214,3,F,7,blue label,N293T 
-215,3,F,8,blue label,C167F 
-216,3,F,9,blue label,E177D 
