@@ -4,7 +4,7 @@ This is the main repository for an ongoing project in the Siegel group ("the bag
 
 ## For students
 
-Welcome to the Bagel Team! 
+Welcome to the Bagel Team! Make sure you join the Slack Channel to ensure you can contact us easily and quickly. Also, don't forget to ask us about getting your Genome Center keycard; it may come in handy!
 
 ### Background reading 
 
