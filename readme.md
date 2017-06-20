@@ -9,7 +9,8 @@ Welcome to the Bagel Team! Make sure you join the Slack Channel to ensure you ca
 ### Background reading 
 
 + [BglB crystal structure](http://www.sciencedirect.com/science/article/pii/S0022283607007413)
-+ [Our group's first paper on Bagel project](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0147596)
++ [Our group's first paper on the Bagel project](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0147596)
++ [Our group's second paper on the Bagel project that focused on Thermostability](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176255)
 
 ### Get started with Foldit
 
